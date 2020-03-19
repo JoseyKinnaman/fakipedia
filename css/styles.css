@@ -1,3 +1,6 @@
+body {
+  font-family: sans-serif;
+}
 .img1 {
   border-radius: 4px;
   padding: 5px;
@@ -55,4 +58,20 @@ h4 {
 
 #ves {
   float: right;
+}
+
+#purple {
+  background-color: rgb(208, 168, 245);
+}
+.nav {
+  margin-left: 20vw;
+}
+
+#center {
+  padding-top: 4rem;
+}
+#make-me-green {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  padding: 0.5rem 1rem;
 }
