@@ -11,6 +11,7 @@ body {
   width: 80vw;
   margin-left: 21vw;
   border: 0.25px solid rgb(0, 115, 255);
+  height: auto;
 }
 .sidebar {
   float: left;
