@@ -65,6 +65,7 @@ h4 {
 }
 .nav {
   margin-left: 20vw;
+  margin-top: 5vh;
 }
 
 #center {
@@ -74,4 +75,20 @@ h4 {
   background-color: #dff0d8;
   border-color: #d6e9c6;
   padding: 0.5rem 1rem;
+}
+#search-bar {
+  width: 300px;
+}
+
+a {
+  color: blue;
+}
+
+#recent {
+  text-align: right;
+  width: 80%;
+  font-size: small;
+}
+.sidebar ul {
+  width: 80%;
 }
