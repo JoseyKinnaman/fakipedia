@@ -1,17 +1,20 @@
 .img1 {
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  width: 175px;
+}
+.main {
+  width: 80vw;
+  margin-left: 21vw;
 }
 .sidebar {
   float: left;
-  width: 190px;
+  width: 20vw;
   background-color: #f6f6f6;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  height: 200vh;
 }
 .sidebar li {
   list-style-type: none;
@@ -25,6 +28,7 @@
   justify-content: space-evenly;
   box-sizing: border-box;
   padding: 1rem;
+  margin: 1rem 0;
 }
 .logo {
   width: 125px;
@@ -35,7 +39,20 @@
   padding: 0.05rem;
 }
 
-/* . {
+img {
+  width: 30%;
+  float: left;
+  margin-right: 5px;
+}
+
+h4 {
   color: black;
-  font-style: ;
-} */
+  font-weight: bold;
+}
+.row {
+  height: 300px;
+}
+
+#ves {
+  float: right;
+}
